@@ -1,1 +1,30 @@
 
+<h1 align="center">🐾 Pet Boutique</h1>
+
+<p align="center">
+  <b>Site institucional para petshop</b><br>
+  Desenvolvido com <strong>HTML5</strong> e <strong>CSS3</strong>, com foco em estética, organização e responsividade básica.
+  <br><br>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+</p>
+
+---
+
+## 🐶 Sobre o Projeto
+
+> **Pet Boutique** é um site simples e encantador desenvolvido para representar uma loja pet de forma moderna e amigável.  
+> O projeto busca oferecer uma navegação agradável e responsiva com informações sobre os serviços oferecidos, produtos e formas de contato.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- ✅ HTML5 semântico
+- ✅ CSS3 com estilos personalizados
+- ✅ Layout responsivo (mobile first)
+- ✅ Imagens ilustrativas e ícones
+
+---
+
+## 📁 Estrutura de Pastas
